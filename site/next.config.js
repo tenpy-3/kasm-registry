@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: '10PY30 REGI',
+    description: 'A personal use registry by 10py3',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/tenpy-3/kasm-registry/',
+    contactUrl: 'https://github.com/tenpy-3/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
