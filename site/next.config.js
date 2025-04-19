@@ -5,7 +5,7 @@ const nextConfig = {
     name: '10PY30 REGI',
     description: 'A personal use registry by 10py3',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/tenpy-3/kasm-registry/',
+    listUrl: 'https://tenpy-3.github.io/kasm-registry/',
     contactUrl: 'https://github.com/tenpy-3/kasm-registry/issues',
   },
   reactStrictMode: true,
